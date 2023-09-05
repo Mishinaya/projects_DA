@@ -1,0 +1,10 @@
+# Анализ данных
+
+| Проект                      | Задачи проекта |   Стек    |
+|:---------------------------:|----------------|:---------:|
+|[ Исследование данных о рынке аренды жилья на Airbnb в Лондоне](https://github.com/Mishinaya/projects_DA/tree/main/Python_SQL) |  В результате проекта были получены данные о рынке аренды жилья на Airbnb в Лондоне, включая анализ цен, типов жилья, рейтингов и впечатлений. Эти результаты были представлены в виде графиков, таблиц и тепловой карты | SQL - запросы в ClickHouse, pandahouse, pandas, seaborn, numpy, matplotlib|
+|[Анализ совершенных покупок e-commerce ](https://github.com/Mishinaya/projects_DA/tree/main/e_commerce) | Выполнен анализ пользователей, заказов и товаров, проведен когортный анализ, определен самый высокий retention на 3й месяц, построена RFM-сегментацию пользователей| pandas, numpy, seaborn, matplotlib, datetime |
+|[Анализ  новой механики оплаты через сайт, проведение статистических тестов](https://github.com/Mishinaya/projects_DA/tree/main/AB_test_part_2) | Анализ продуктовых метрик (CR, ARPU, ARPPU).Реализована функция, которая автоматически подгружает информацию, рассчитывает продуктовые метрики и выводит в результирующую таблицу. Реализована функция, которая строит барплоты по получаемым метрикам. Проверила результаты А/В теста с использованием бутстрап. | pandas, datetime, numpy, seaborn, scipy,matplotlib, tqdm |
+|[RFM анализ](https://github.com/Mishinaya/projects_DA/tree/main/Segmentation) | RFM сегментация клиентов и целевой аудитории.| pandas, numpy, matplotlib, seaborn |
+|[А/В тест](https://github.com/Mishinaya/projects_DA/tree/main/bootstrap) | Анализ результатов A/B-тестов: t-тест, U-тест Mann-Whitney или бутстрап. | pandas, numpy, seaborn, scipy, matplotlib, tqdm |
+|[Product metrics](https://github.com/Mishinaya/projects_DA/tree/main/Product%20metrics) | Анализ поведения пользователей, оценка эффективности каналов их привлечения.Проведение когортного анализа для оценки конверсии пользователей из установки приложения в совершение покупки в течение 7 дней. | pandas, numpy, seaborn, scipy, matplotlib, tqdm |
